@@ -48,7 +48,7 @@ for (let i = 0; i < posts.length; i++) {
         sectionClass = "post-content";
     }
 
-    // Build the HTML with unique ids for images
+    // HTML
     html += `
         <section class="${sectionClass}">
             <div class="container ${containerClass}">

@@ -1,4 +1,39 @@
-# Getting Started
+# Oldagram
+
+![Oldogram-12-17-2024_03_28_PM](https://github.com/user-attachments/assets/3b15d63a-fa22-4258-9edb-c08a331e03fb)
+
+
+## Description
+
+Social Media Posts is a web-based application that dynamically displays posts from different users. The users can interact with the posts by double-clicking on the post images or the heart icon to increase the number of likes. The interface is responsive and simple, enabling an interactive social media experience with basic engagement.
+
+## Features
+
+- Displays posts with user information such as name, username, location, avatar, and a comment.
+- Double-click on the post image or the heart icon to increase likes for each post.
+- Likes are updated dynamically, showing the total number of likes in real-time.
+- Simple and responsive design, perfect for an interactive webpage.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+
+## How to Use
+
+1. Double-click the **post image** or the **heart icon** on any post to increase the number of likes for that post.
+2. The total likes will be dynamically updated when clicked.
+3. The posts are organized with user details including the name, location, and comment from each user.
+
+## Improvements
+
+- Enhance accessibility features by adding more semantic HTML elements.
+- Refactor the JavaScript code to use event delegation for better performance.
+- Implement more interactivity such as comment posting and direct messaging.
+
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install
