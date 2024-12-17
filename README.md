@@ -1,6 +1,9 @@
 # Oldagram
 
-![Oldogram-12-17-2024_03_28_PM](https://github.com/user-attachments/assets/3b15d63a-fa22-4258-9edb-c08a331e03fb)
+[![Demo](https://github.com/user-attachments/assets/3b15d63a-fa22-4258-9edb-c08a331e03fb)](https://strong-bienenstitch-c34110.netlify.app/)
+
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
+
 
 
 ## Description
