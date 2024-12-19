@@ -1,6 +1,7 @@
 # Oldagram
 
-[![Demo](https://github.com/user-attachments/assets/3b15d63a-fa22-4258-9edb-c08a331e03fb)](https://symphonious-lokum-454380.netlify.app)
+[![Demo](https://github.com/user-attachments/assets/3d82fcf6-0263-421f-9e31-302fb2caa213)](https://symphonious-lokum-454380.netlify.app)
+
 
 > Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
